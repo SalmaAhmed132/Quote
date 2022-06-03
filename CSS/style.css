@@ -1,0 +1,31 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: black;
+}
+.btn
+{
+font-family: Arial, Helvetica, sans-serif;
+background-color: blue;
+border: 2px solid black;
+width: 250px;
+height: 80px;
+color: white;
+border-radius:0;
+font-size:13.3333px;
+}
+.btn:hover
+{
+background-color: green;
+color: white;
+}
+
+
